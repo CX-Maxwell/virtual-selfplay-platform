@@ -1,0 +1,1 @@
+详见 D:/project/虚拟自博弈/visual fight/Kimi_Agent_防空反导自博弈复现/code/air_defense_selfplay/USER_MANUAL.md
